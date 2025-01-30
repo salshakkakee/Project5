@@ -10,6 +10,10 @@ public class DemoTest5 {
 		int result = a + b;
 
 		System.out.println(result);
+
+		if (a > b ){
+			System.out.println("a greater than b);
+			
 	}
 
 	public void add(int a, int b) {
