@@ -12,7 +12,7 @@ public class DemoTest5 {
 		System.out.println(result);
 
 		if (a > b ){
-			System.out.println("a greater than b);
+			System.out.println("a greater than b");
 			
 	}
 
